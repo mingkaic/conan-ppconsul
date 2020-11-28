@@ -6,4 +6,4 @@ Create packages using `conan create . mingkaic-co/stable`
 
 # usage
 Before install package first add remote: `conan remote add mingkaic-co "https://api.bintray.com/conan/mingkaic-co/mkc-conan"`
-Add requirement `ppconsul/<version>@mingkaic-co/stable`
+Add requirement `Ppconsul/<version>@mingkaic-co/stable`
